@@ -2,12 +2,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>JSP - Hello World</title>
+    <title>Default</title>
 </head>
 <body>
-<h1><%= "Hello World!" %>
-</h1>
-<br/>
-<a href="hello-servlet">Hello Servlet</a>
+<h1>Default</h1>
+----------------------------------------
+<h3>Welcome to the default page.</h3>
 </body>
 </html>
